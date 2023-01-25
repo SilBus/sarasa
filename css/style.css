@@ -5,7 +5,7 @@
 }
 
 header{
-    background-color: #32cb00;
+    background-color: #80deea;
     color: black;
     font-weight: bold;
 }
@@ -18,18 +18,18 @@ header{
   .boxSha {
     box-shadow: 0 0 25px #f9faf8; }
     .boxSha:hover {
-      box-shadow: 0 0 5px #76ff03, 0 0 25px #76ff03, 0 0 50px #76ff03, 0 0 100px #76ff03; }
+      box-shadow: 0 0 5px #b4ffff, 0 0 25px #b4ffff, 0 0 50px #b4ffff, 0 0 100px #b4ffff; }
 
       .btn{
-        background-color: #76ff03;
+        background-color: #b4ffff;
       }
       .btn:hover{
-        background-color: #32cb00;
+        background-color: #80deea;
       }
   
 
 footer{
-    background-color: #76ff03;
+    background-color: #80deea;
 }
     footer .container-fluid ul {
         list-style: none;
